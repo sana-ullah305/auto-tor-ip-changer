@@ -120,5 +120,3 @@ Sanaullah
 
 **Disclaimer:** This script is intended for educational purposes only. Users are advised to employ this tool responsibly and be mindful of legal considerations related to network activities in their respective regions.
 ```
-
-Feel free to copy and paste this content into your README.md file on GitHub.
